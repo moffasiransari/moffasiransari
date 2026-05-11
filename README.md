@@ -24,7 +24,8 @@ I'm not doing this for a grade. I'm doing this because I want to build a real ca
 |---------|-------------|------|
 | 🌦 Weather API App | Fetches live weather for any city | Python, requests |
 | 🎮 Number Guessing Game | Guess the number with smart hints | Python |
-| 🔢 Unit Converter | Converts length, weight, temperature | Python |
+|🎮 Rock Paper Scissor| Rock Paper Scissor Game | |Python|
+| 🔢 Unit Converter | Single function for multiple conversions | Python |
 | 📊 Report Generator | Generates formatted text reports | Python, File I/O |
 
 ---
@@ -35,7 +36,7 @@ I'm not doing this for a grade. I'm doing this because I want to build a real ca
 - ✅ File I/O — reading and writing CSVs
 - ✅ Unit testing with **pytest**
 - ✅ Using real APIs (weather, bitcoin prices)
-- ✅ Regular expressions
+- ✅ Regular expressions (ongoing)
 - 🔜 Next: Data structures & algorithms
 
 ---

@@ -49,7 +49,7 @@ I'm not doing this for a grade. I'm doing this because I want to build a real ca
 
 ---
 
-### 📊 My stats
+### 📊 My stats(Transferred all of my work from CS50 owned repo(180+commits) to my personal repo,Thus commits are showing less)
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=moffasiransari&theme=default&hide_border=true" height="150"/>
